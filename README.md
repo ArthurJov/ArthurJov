@@ -44,9 +44,6 @@ Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, c
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Intermediário**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Aprendendo**
@@ -108,22 +105,6 @@ Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurjov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurjov&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arthurjov&theme=tokyonight&hide_border=true&locale=pt_BR)
-
-</div>
-
----
 
 <div align="center">
 
