@@ -83,7 +83,8 @@ Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, c
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
       </p>
       <p align="center">
-        <em>🔒 Em desenvolvimento</em>
+        <em>🔒 Em desenvolvimento</em><br/>
+        <a href="https://arthurjov.github.io/DyLuxo/">🔗 Ver projeto</a>
       </p>
     </td>
   </tr>
