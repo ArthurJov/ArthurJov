@@ -45,9 +45,12 @@ Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Aprendendo**
+**Intermediário**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Aprendendo**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -109,8 +112,14 @@ Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, c
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurjov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjov&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurjov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurjov&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arthurjov&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 </div>
 
