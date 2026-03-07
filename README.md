@@ -1,35 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Arthur+Vieira+%F0%9F%91%8B;Software+Engineering+Student;Web+Dev+%7C+AI+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Arthur+Vieira+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Intelig%C3%AAncia+Artificial;L%C3%ADder+de+Turma+%7C+Tutor+de+Programa%C3%A7%C3%A3o;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurjov)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arthurjov29@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5571981298278)
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-6366F1?style=for-the-badge&logoColor=white)](https://arthur-portifolio.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurjov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurjov29@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571981298278)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim · About me
+## 👨‍💻 Sobre mim
 
-**PT** — Olá! Sou Arthur, 21 anos, estudante de Engenharia de Software na UNIJORGE (2º semestre). Fiz o Técnico em Desenvolvimento de Sistemas no SENAI e desde então venho me dedicando a desenvolvimento web e inteligência artificial. Sou Líder de Turma e Tutor oficial de Lógica de Programação, com experiência ensinando ~30 alunos semanalmente. Inglês C1 (EF SET).
+Olá! Sou **Arthur Vieira**, 21 anos, estudante de **Engenharia de Software** na UNIJORGE (2º semestre). Concluí o Técnico em Desenvolvimento de Sistemas no SENAI e desde então venho me dedicando a desenvolvimento web e inteligência artificial.
 
-**EN** — Hey! I'm Arthur, 21 y/o Software Engineering student at UNIJORGE (2nd semester). I completed a Technical degree in Systems Development at SENAI and have been focused on web development and AI ever since. I serve as Class Leader and official Programming Logic Tutor, teaching ~30 students weekly. Advanced English — C1 (EF SET certified).
+Atuo como **Líder de Turma** e **Tutor oficial de Lógica de Programação**, com experiência ensinando cerca de 30 alunos por semana. Também ministrei uma palestra sobre **Introdução à Inteligência Artificial** na UNIJORGE. Inglês avançado — nível **C1 (EF SET)**.
 
 ```text
-📍 Lauro de Freitas, BA — Brasil
-🎓 Engenharia de Software · UNIJORGE (2025–2028)
-🤖 Interests: Web Dev · AI · UX/UI · Open Source
-🗣️ Languages: Português (nativo) · English (C1)
+📍 Localização   →   Lauro de Freitas, BA — Brasil
+🎓 Graduação     →   Engenharia de Software · UNIJORGE (2025–2028)
+🏫 Técnico       →   Desenvolvimento de Sistemas · SENAI (2023–2024)
+🤖 Interesses    →   Web Dev · Inteligência Artificial · UX/UI
+🗣️ Idiomas       →   Português (nativo) · Inglês C1 (EF SET)
 ```
 
 ---
 
-## 🛠️ Stack & Technologies
+## 🛠️ Tecnologias & Ferramentas
 
-#### Advanced · Avançado
+**Avançado**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -37,11 +40,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
-#### Intermediate · Intermediário
+**Intermediário**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-#### Learning · Aprendendo
+**Aprendendo**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -49,27 +54,74 @@
 
 ---
 
-## 🚀 Projetos em Destaque · Featured Projects
+## 🚀 Projetos em Destaque
 
-| Projeto | Descrição · Description | Stack |
-|--------|------------------------|-------|
-| [**TeraStore**](https://arthurjov.github.io/TeraStore/) | Landing page de loja de eletrônicos · Electronics store landing page | HTML · CSS · JS |
-| **Loja de Joias** *(em dev)* | Liderança front-end em projeto acadêmico · Front-end lead on academic project | HTML · CSS · Figma |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 TeraStore</h3>
+      <p align="center">
+        Landing page de uma loja de eletrônicos fictícia, desenvolvida como projeto final no SENAI. Foco em design moderno e apresentação de produtos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://arthurjov.github.io/TeraStore/">🔗 Ver projeto</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💎 Loja de Joias <em>(em dev)</em></h3>
+      <p align="center">
+        Projeto acadêmico da UNIJORGE onde atuei como líder da equipe front-end. Responsável pela estruturação das interfaces e decisões de usabilidade.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+      <p align="center">
+        <em>🔒 Em desenvolvimento</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 💼 Veja todos os meus projetos no **[Portfólio](https://arthur-portifolio.lovable.app/)**
 
 ---
 
-## 📜 Certificações · Certifications
+## 📜 Certificações
 
-- 🌐 **Inglês C1** — EF SET International Certificate
-- 🐍 **Python Fundamentals** (30h) — Cisco Networking Academy
-- 🌐 **CCNA: Intro to Networks** (70h) — Cisco Networking Academy
-- 📡 **Intro to IoT** — Cisco Networking Academy
-- 🤖 **Palestra: IA** — UNIJORGE (Out/2025)
+| Certificado | Instituição | Carga |
+|-------------|-------------|-------|
+| 🌐 Inglês Avançado — C1 | EF SET | — |
+| 🐍 Fundamentos do Python | Cisco Networking Academy | 30h |
+| 🌐 CCNA: Introdução às Redes | Cisco Networking Academy | 70h |
+| 📡 Introdução à IoT | Cisco Networking Academy | 6h |
+| 🤖 Palestra: Inteligência Artificial | UNIJORGE | Out/2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurjov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjov&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Sempre aprendendo, sempre construindo." · "Always learning, always building."*
+**Obrigado pela visita!** Fique à vontade para explorar meus repositórios ou entrar em contato. 😄
+
+[![Portfólio](https://img.shields.io/badge/🌐_Acesse_meu_portfólio-6366F1?style=for-the-badge)](https://arthur-portifolio.lovable.app/)
+
+*"Sempre aprendendo, sempre construindo."*
 
 </div>
