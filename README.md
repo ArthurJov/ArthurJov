@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="LINK_DO_SEU_PORTFOLIO"><img src="https://img.shields.io/badge/Meu_Portfólio-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/arthurjov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://arthur-portifolio.lovable.app/"><img src="https://img.shields.io/badge/Meu_Portfólio-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio"></a>
 </div>
 
 ---
@@ -26,4 +26,38 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/React-20232b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>💎 Loja de Joias</h3>
+      <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-FFD700?style=flat-square" alt="Em Desenvolvimento" />
+      <p>Líder da equipe front-end em um projeto acadêmico da UNIJORGE. Foco em estruturação de UI/UX e usabilidade.</p>
+      <br>
+      <a href="https://github.com/arthurjov/DyLuxo"><b>🔗 Ver Repositório</b></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🛒 TeraStore</h3>
+      <img src="https://img.shields.io/badge/Status-Concluído-success?style=flat-square" alt="Concluído" />
+      <p>Landing page responsiva de eletrônicos desenvolvida como projeto final no SENAI. Foco em design moderno.</p>
+      <br>
+      <a href="https://github.com/arthurjov/TeraStore"><b>🔗 Ver Repositório</b></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<div align="center">
+  <i>"Sempre aprendendo, sempre construindo." 🚀</i>
+</div>
