@@ -40,7 +40,7 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
 <table align="center" border="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>💆‍♀️ Mila Estética — Site Freelance</h3>
+      <h3>💆‍♀️ Site Esteticista — Site Freelance</h3>
       <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-6366F1?style=flat-square" alt="Em Desenvolvimento" />
       <img src="https://img.shields.io/badge/Tipo-Freelance_Real-FF69B4?style=flat-square" alt="Freelance" />
       <p>Site profissional desenvolvido <strong>de forma independente</strong> para Ludmila Paixão, esteticista em Salvador/BA. Apresenta serviços, galeria, depoimentos, FAQ e CTA de agendamento. Projeto real com cliente real.</p>
