@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Olá%2C+eu+sou+Arthur+Vieira+👋;Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Inteligência+Artificial;Líder+de+Turma+%7C+Tutor+de+Programação;Sempre+aprendendo%2C+sempre+construindo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Arthur+Vieira+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software;Desenvolvimento+Web+%7C+Intelig%C3%AAncia+Artificial;L%C3%ADder+de+Turma+%7C+Tutor+de+Programa%C3%A7%C3%A3o;Sempre+aprendendo%2C+sempre+construindo+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <br/>
 <div align="center">
