@@ -46,7 +46,7 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
       <p>Site profissional desenvolvido <strong>de forma independente</strong> para Ludmila Paixão, esteticista em Salvador/BA. Apresenta serviços, galeria, depoimentos, FAQ e CTA de agendamento. Projeto real com cliente real.</p>
       <p><sub>HTML5 · CSS3 · JavaScript</sub></p>
       <br>
-      <a href="https://arthurjov.github.io/Mila-Estetica/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
+      <a href="https://ludmilapaixao.unaux.com/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
       <a href="https://github.com/arthurjov/Mila-Estetica"><b>🔗 Repositório</b></a>
     </td>
     <td width="50%" align="center" valign="top">
