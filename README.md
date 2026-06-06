@@ -8,6 +8,15 @@
   <a href="https://arthur-portifolio.lovable.app/"><img src="https://img.shields.io/badge/Meu_Portfólio-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfólio"></a>
 </div>
 
+<br/>
+
+<div align="center">
+  <p><b>👾 Cansado de ver código? Clique no GIF e jogue um pouco!</b></p>
+  <a href="https://g.co/kgs/Z2G15X" target="_blank">
+    <img src="https://media.giphy.com/media/d9HvwR02n810t0hB1R/giphy.gif" alt="Pac-Man Animado" width="400"/>
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 Sobre Mim
