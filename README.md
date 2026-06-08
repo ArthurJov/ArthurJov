@@ -48,33 +48,31 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
 
 <table align="center" border="0">
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <h3>🤖 Responde AI</h3>
-      <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" alt="Ativo" />
-      <img src="https://img.shields.io/badge/Tipo-Web_App_%7C_IA-8A2BE2?style=flat-square" alt="IA / Web App" />
-      <p>Aplicação web focada em <strong>Inteligência Artificial</strong>. Este projeto conecta diretamente minhas áreas de especialidade, unindo desenvolvimento front-end com integrações inteligentes para entregar soluções rápidas e eficientes.</p>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖 RespondeAI</h3>
+      <img src="https://img.shields.io/badge/Status-Concluído-success?style=flat-square" alt="Concluído" />
+      <img src="https://img.shields.io/badge/Tipo-IA_&_Web-8A2BE2?style=flat-square" alt="IA e Web" />
+      <p>Sistema web de levantamento de requisitos com IA. Gera <strong>PRDs estruturados</strong> de forma dinâmica através de uma entrevista conversacional com o usuário.</p>
+      <p><sub>JavaScript · IA · Web</sub></p>
       <br>
-      <a href="https://respondeai-347a9.web.app/"><b>🌐 Ver App</b></a> &nbsp;|&nbsp;
+      <a href="https://respondeai-347a9.web.app/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
       <a href="https://github.com/ArthurJov/RespondeAI"><b>🔗 Repositório</b></a>
-      <br><br>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>💆‍♀️ Site Esteticista — Site Freelance</h3>
+    <td width="33%" align="center" valign="top">
+      <h3>💆‍♀️ Site Esteticista</h3>
       <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-6366F1?style=flat-square" alt="Em Desenvolvimento" />
       <img src="https://img.shields.io/badge/Tipo-Freelance_Real-FF69B4?style=flat-square" alt="Freelance" />
-      <p>Site profissional desenvolvido <strong>de forma independente</strong> para Ludmila Paixão, esteticista em Salvador/BA. Apresenta serviços, galeria, depoimentos, FAQ e CTA de agendamento. Projeto real com cliente real.</p>
+      <p>Site profissional desenvolvido <strong>de forma independente</strong> para esteticista em Salvador/BA. Apresenta serviços, galeria, FAQ e CTA de agendamento.</p>
       <p><sub>HTML5 · CSS3 · JavaScript</sub></p>
       <br>
       <a href="https://ludmilapaixao.unaux.com/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
       <a href="https://github.com/arthurjov/Mila-Estetica"><b>🔗 Repositório</b></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🏠 Juscelia Sousa — Corretora de Imóveis</h3>
+    <td width="33%" align="center" valign="top">
+      <h3>🏠 Juscelia Sousa</h3>
       <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-FFD700?style=flat-square" alt="Em Desenvolvimento" />
       <img src="https://img.shields.io/badge/Tipo-Projeto_Acadêmico-4479A1?style=flat-square" alt="Acadêmico" />
-      <p>Site institucional para corretora de imóveis em Ituberá/BA. Desenvolvido em equipe na UNIJORGE, com <strong>liderança da estrutura front-end</strong>: header, hero section, paleta de cores e tipografia do projeto.</p>
+      <p>Site institucional para corretora em Ituberá/BA. Desenvolvido na UNIJORGE, com <strong>liderança da estrutura front-end</strong>: header, hero section, cores e tipografia.</p>
       <p><sub>HTML5 · CSS3 · JavaScript</sub></p>
       <br>
       <a href="https://arthurjov.github.io/SiteCorretora/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
