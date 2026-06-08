@@ -53,7 +53,7 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
       <img src="https://img.shields.io/badge/Status-Concluído-success?style=flat-square" alt="Concluído" />
       <img src="https://img.shields.io/badge/Tipo-IA_&_Web-8A2BE2?style=flat-square" alt="IA e Web" />
       <p>Sistema web de levantamento de requisitos com IA. Gera <strong>PRDs estruturados</strong> de forma dinâmica através de uma entrevista conversacional com o usuário.</p>
-      <p><sub>JavaScript · IA · Web</sub></p>
+      <p><sub>Python · IA · Web</sub></p>
       <br>
       <a href="https://respondeai-347a9.web.app/"><b>🌐 Ver Site</b></a> &nbsp;|&nbsp;
       <a href="https://github.com/ArthurJov/RespondeAI"><b>🔗 Repositório</b></a>
