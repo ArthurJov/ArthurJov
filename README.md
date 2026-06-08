@@ -48,6 +48,18 @@ Sou graduando em **Engenharia de Software** (UNIJORGE) e Técnico em Desenvolvim
 
 <table align="center" border="0">
   <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>🤖 Responde AI</h3>
+      <img src="https://img.shields.io/badge/Status-Ativo-success?style=flat-square" alt="Ativo" />
+      <img src="https://img.shields.io/badge/Tipo-Web_App_%7C_IA-8A2BE2?style=flat-square" alt="IA / Web App" />
+      <p>Aplicação web focada em <strong>Inteligência Artificial</strong>. Este projeto conecta diretamente minhas áreas de especialidade, unindo desenvolvimento front-end com integrações inteligentes para entregar soluções rápidas e eficientes.</p>
+      <br>
+      <a href="https://respondeai-347a9.web.app/"><b>🌐 Ver App</b></a> &nbsp;|&nbsp;
+      <a href="https://github.com/ArthurJov/RespondeAI"><b>🔗 Repositório</b></a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h3>💆‍♀️ Site Esteticista — Site Freelance</h3>
       <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-6366F1?style=flat-square" alt="Em Desenvolvimento" />
